@@ -1,0 +1,537 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+    <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+      <Color blue="dc" green="f5" red="f5" type="rgb"/>
+    </Property>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" attributes="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <EmptySpace min="-2" pref="189" max="-2" attributes="0"/>
+                      <Component id="btnDisplay" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="jScrollPane1" min="-2" pref="559" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                  <Group type="102" attributes="0">
+                      <Component id="jLabel8" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Component id="txfldTypeofpackage" max="32767" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" alignment="0" attributes="0">
+                              <EmptySpace min="3" pref="3" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Component id="jLabel6" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  <Component id="jLabel7" alignment="0" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                          <Component id="jLabel11" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="jLabel12" alignment="0" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="33" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                          <Component id="txflddogfood_id" min="-2" pref="143" max="-2" attributes="0"/>
+                          <Component id="txfldFlavor" min="-2" pref="143" max="-2" attributes="0"/>
+                          <Component id="txfldBrand" min="-2" pref="143" max="-2" attributes="0"/>
+                          <Component id="txfldType_id" alignment="0" min="-2" pref="143" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <Component id="jLabel2" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Group type="102" alignment="0" attributes="0">
+                      <Group type="103" groupAlignment="1" attributes="0">
+                          <Group type="103" alignment="1" groupAlignment="0" attributes="0">
+                              <Component id="jLabel4" alignment="0" min="-2" max="-2" attributes="0"/>
+                              <Component id="jLabel5" alignment="0" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="1" attributes="0">
+                              <Component id="jLabel3" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace min="-2" pref="28" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <EmptySpace min="-2" pref="14" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                          <Component id="txfldFirstname" alignment="1" min="-2" pref="143" max="-2" attributes="0"/>
+                          <Component id="txfldLastname" alignment="1" min="-2" pref="143" max="-2" attributes="0"/>
+                          <Component id="txfldMobile" alignment="0" min="-2" pref="143" max="-2" attributes="0"/>
+                          <Component id="txfldId" alignment="0" min="-2" pref="143" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="jLabel9" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="jLabel10" min="-2" max="-2" attributes="0"/>
+                          <Component id="jLabel13" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="jLabel14" min="-2" max="-2" attributes="0"/>
+                          <Component id="jLabel15" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="jLabel16" alignment="0" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="38" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                          <Component id="txfldKilogram" max="32767" attributes="0"/>
+                          <Component id="txfldDelivery" max="32767" attributes="0"/>
+                          <Component id="txfldDelivery_id" alignment="0" max="32767" attributes="0"/>
+                          <Component id="txfldpayment_id" alignment="0" max="32767" attributes="0"/>
+                          <Component id="txfldPayment" max="32767" attributes="0"/>
+                          <Component id="txfldPrice" alignment="0" pref="143" max="32767" attributes="0"/>
+                      </Group>
+                  </Group>
+              </Group>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                      <Group type="102" attributes="0">
+                          <EmptySpace min="-2" pref="20" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                                  <Component id="btnSearch" alignment="1" min="-2" pref="71" max="-2" attributes="0"/>
+                                  <Component id="btnUpdate" alignment="1" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <Component id="btnDelete" min="-2" pref="71" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <Group type="102" attributes="0">
+                          <EmptySpace type="separate" max="-2" attributes="0"/>
+                          <Component id="btnExit" max="32767" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="btnClear" min="-2" pref="71" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <EmptySpace pref="26" max="32767" attributes="0"/>
+          </Group>
+          <Group type="102" alignment="1" attributes="0">
+              <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+              <Component id="jLabel1" min="-2" max="-2" attributes="0"/>
+              <EmptySpace min="-2" pref="330" max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="1" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="jLabel1" min="-2" max="-2" attributes="0"/>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="jLabel2" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="txfldId" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="jLabel3" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="txfldFirstname" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="jLabel4" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="txfldLastname" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="1" attributes="0">
+                          <Component id="txfldMobile" alignment="1" min="-2" max="-2" attributes="0"/>
+                          <Component id="jLabel5" alignment="1" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" alignment="0" attributes="0">
+                              <Component id="btnSearch" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace min="-2" pref="5" max="-2" attributes="0"/>
+                              <Component id="btnUpdate" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace min="-2" pref="6" max="-2" attributes="0"/>
+                              <Component id="btnDelete" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <Group type="103" groupAlignment="3" attributes="0">
+                                  <Component id="txflddogfood_id" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="jLabel11" alignment="3" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace min="-2" pref="5" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="3" attributes="0">
+                                  <Component id="txfldBrand" alignment="3" max="32767" attributes="0"/>
+                                  <Component id="jLabel6" alignment="3" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace min="-2" pref="6" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="3" attributes="0">
+                                  <Component id="txfldFlavor" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="jLabel7" alignment="3" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace type="separate" min="-2" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="3" attributes="0">
+                                  <Component id="txfldType_id" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="jLabel12" alignment="3" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                      </Group>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="btnClear" alignment="3" min="-2" pref="22" max="-2" attributes="0"/>
+                          <Component id="txfldTypeofpackage" alignment="3" min="-2" pref="22" max="-2" attributes="0"/>
+                          <Component id="jLabel8" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" alignment="0" attributes="0">
+                              <EmptySpace min="-2" pref="74" max="-2" attributes="0"/>
+                              <Component id="btnExit" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" attributes="0">
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="3" attributes="0">
+                                  <Component id="txfldKilogram" alignment="3" min="-2" max="-2" attributes="0"/>
+                                  <Component id="jLabel9" alignment="3" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <EmptySpace max="-2" attributes="0"/>
+                                      <Group type="103" groupAlignment="0" attributes="0">
+                                          <Component id="txfldPrice" min="-2" max="-2" attributes="0"/>
+                                          <Component id="jLabel16" min="-2" max="-2" attributes="0"/>
+                                      </Group>
+                                      <EmptySpace min="-2" pref="33" max="-2" attributes="0"/>
+                                      <Component id="jLabel13" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <EmptySpace min="-2" pref="52" max="-2" attributes="0"/>
+                                      <Component id="txfldDelivery_id" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                              </Group>
+                          </Group>
+                      </Group>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="jLabel10" min="-2" max="-2" attributes="0"/>
+                          <Component id="txfldDelivery" min="-2" pref="22" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <Component id="jScrollPane1" pref="0" max="32767" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="txfldpayment_id" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jLabel14" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="8" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="btnDisplay" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jLabel15" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="txfldPayment" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="28" max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JButton" name="btnDisplay">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="0" green="99" red="ff" type="rgb"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Display All"/>
+        <Property name="name" type="java.lang.String" value="btnDisplay" noResource="true"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnDisplayActionPerformed"/>
+      </Events>
+    </Component>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane1">
+      <AuxValues>
+        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+      </AuxValues>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JTable" name="tblDisplayRecords">
+          <Properties>
+            <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="dc" green="f5" red="f5" type="rgb"/>
+            </Property>
+            <Property name="model" type="javax.swing.table.TableModel" editor="org.netbeans.modules.form.editors2.TableModelEditor">
+              <Table columnCount="9" rowCount="10">
+                <Column editable="true" title="firstname" type="java.lang.String"/>
+                <Column editable="true" title="lastname" type="java.lang.String"/>
+                <Column editable="true" title="mobile_num" type="java.lang.String"/>
+                <Column editable="true" title="brand" type="java.lang.String"/>
+                <Column editable="true" title="flavor" type="java.lang.String"/>
+                <Column editable="true" title="typeofpackage" type="java.lang.String"/>
+                <Column editable="true" title="kilogram" type="java.lang.Integer"/>
+                <Column editable="true" title="price" type="java.lang.Integer"/>
+                <Column editable="true" title="delivery" type="java.lang.String"/>
+              </Table>
+            </Property>
+            <Property name="name" type="java.lang.String" value="tblDisplayRecords" noResource="true"/>
+          </Properties>
+          <AuxValues>
+            <AuxValue name="JavaCodeGenerator_SerializeTo" type="java.lang.String" value="DogeDashboard_tblDisplayRecords"/>
+          </AuxValues>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Component class="javax.swing.JLabel" name="jLabel1">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Algerian" size="16" style="1"/>
+        </Property>
+        <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="45" green="6b" red="94" type="rgb"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Doge read, update, delete"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel2">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Customer ID"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txfldId">
+      <Properties>
+        <Property name="name" type="java.lang.String" value="txfldId" noResource="true"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel3">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="First Name"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txfldFirstname">
+      <Properties>
+        <Property name="toolTipText" type="java.lang.String" value=""/>
+        <Property name="name" type="java.lang.String" value="txfldFirstname" noResource="true"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="txfldFirstnameActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel4">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Last Name"/>
+        <Property name="toolTipText" type="java.lang.String" value=""/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txfldLastname">
+      <Properties>
+        <Property name="name" type="java.lang.String" value="txfldLastname" noResource="true"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel5">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Mobile Number"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txfldMobile">
+    </Component>
+    <Component class="javax.swing.JButton" name="btnSearch">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="0" green="99" red="ff" type="rgb"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Search"/>
+        <Property name="name" type="java.lang.String" value="btnSearch" noResource="true"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnSearchActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="btnUpdate">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="0" green="99" red="ff" type="rgb"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Update"/>
+        <Property name="name" type="java.lang.String" value="btnUpdate" noResource="true"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnUpdateActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="btnDelete">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="0" green="99" red="ff" type="rgb"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Delete"/>
+        <Property name="name" type="java.lang.String" value="btnDelete" noResource="true"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnDeleteActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="btnClear">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="0" green="99" red="ff" type="rgb"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Clear"/>
+        <Property name="toolTipText" type="java.lang.String" value=""/>
+        <Property name="name" type="java.lang.String" value="btnClear" noResource="true"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnClearActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="btnExit">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="0" green="99" red="ff" type="rgb"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Exit"/>
+        <Property name="name" type="java.lang.String" value="btnExit" noResource="true"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btnExitActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txfldBrand">
+      <Properties>
+        <Property name="name" type="java.lang.String" value="txfldBrand" noResource="true"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="txfldBrandActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txfldFlavor">
+      <Properties>
+        <Property name="name" type="java.lang.String" value="txfldFlavor" noResource="true"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txfldTypeofpackage">
+      <Properties>
+        <Property name="name" type="java.lang.String" value="txfldTypeofpackage" noResource="true"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txfldKilogram">
+      <Properties>
+        <Property name="name" type="java.lang.String" value="txfldKilogram" noResource="true"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txfldDelivery">
+      <Properties>
+        <Property name="name" type="java.lang.String" value="txfldDelivery" noResource="true"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel6">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Brand"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel7">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Flavor"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel8">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Type of Package"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel9">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Kilogram"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel10">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Delivery"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txflddogfood_id">
+      <Properties>
+        <Property name="name" type="java.lang.String" value="txflddogfood_id" noResource="true"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel11">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Dog Food ID"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel12">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Type ID"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txfldType_id">
+      <Properties>
+        <Property name="toolTipText" type="java.lang.String" value=""/>
+        <Property name="name" type="java.lang.String" value="txfldType_id" noResource="true"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="txfldType_idActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel13">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Delivery ID"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txfldDelivery_id">
+      <Properties>
+        <Property name="toolTipText" type="java.lang.String" value=""/>
+        <Property name="name" type="java.lang.String" value="txfldDelivery_id" noResource="true"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txfldpayment_id">
+      <Properties>
+        <Property name="toolTipText" type="java.lang.String" value=""/>
+        <Property name="name" type="java.lang.String" value="txfldpayment_id" noResource="true"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="txfldpayment_idActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel14">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Payment ID"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel15">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Payment"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txfldPayment">
+      <Properties>
+        <Property name="name" type="java.lang.String" value="txfldPayment" noResource="true"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel16">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Price"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="txfldPrice">
+      <Properties>
+        <Property name="name" type="java.lang.String" value="txfldPrice" noResource="true"/>
+      </Properties>
+    </Component>
+  </SubComponents>
+</Form>
